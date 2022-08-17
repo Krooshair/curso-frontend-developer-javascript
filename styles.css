@@ -377,6 +377,15 @@
         width: 140px;
         height: 140px;
       }
+      #shoppingCartContainer{
+        right: 0;
+        width: calc(100% - 24px);
+      }
+
+      #productDetail{
+        right: 0;
+        width: calc(100% - 24px);
+      }
   }
 
   /*  */
